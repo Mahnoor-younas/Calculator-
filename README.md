@@ -1,3 +1,3 @@
 # Calculator
 
-basic operator use in calculator 
+basic operators use in calculator 
